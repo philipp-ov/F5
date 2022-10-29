@@ -1,3 +1,5 @@
+## manage_dg.sh
+
 This script adds/deletes/lists IPs in datagroup using API.
 It sends commands to a main node and then syncs cluster.
 Plus it checks that all commands were successfull.
